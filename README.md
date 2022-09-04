@@ -11,4 +11,4 @@
 
 ### 블로그 테마
 - choiiis님께서 'Minimal Mistakes' 테마를 이용해 제작하신 커스텀 템플릿입니다
-- ['https://choiiis.github.io/]
+- [`https://choiiis.github.io/`](https://choiiis.github.io/)
